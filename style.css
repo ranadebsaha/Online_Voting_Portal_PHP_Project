@@ -1,0 +1,98 @@
+.div2{
+    position: absolute;
+    top: 0%;
+    left: 30%;
+    /* background-image: url(bkg.jpg); */
+}
+.h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+    padding: 1%;
+}
+
+.headline{
+    padding: 2%;
+    margin: 1%;
+    text-align: center;
+    float: top;
+}
+
+.div3{
+    position: absolute;
+    top: 0%;
+}
+
+.head{
+    background-image: url("./img/bkg.jpg");
+    padding: 1%;
+}
+
+
+.backimg{
+    background-image: url("./img/backimg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+.db_back{
+    background-image: url("./img/backimg4.jpg");
+    background-repeat:round;
+    background-size: cover; 
+}
+
+th,td{
+    padding-left:25px;
+}
+
+.portal{
+    background-image: url("./img/backimg4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.portal-t{
+    background-color: rgb(147, 209, 242);
+}
+
+.outer-border{
+    width:800px; height:850px; padding:20px; text-align:center; border: 10px solid #ff8c00; margin-left: 5%;
+}
+
+.inner-dotted-border{
+    width:750px; height:800px; padding:20px; text-align:center; border: 8px solid #0ea203;border-style: dotted;
+}
+
+.certification{
+    font-size:50px; font-weight:bold;    color: #b700ff;
+}
+
+.certify{
+    font-size:25px;
+}
+
+.name{
+    font-size:30px;    color: green;
+}
+
+.fs-30{
+    font-size:30px;
+}
+
+.fs-20{
+    font-size:20px;
+}
+
+.fs-18{
+    font-size:18px;
+}
+
+.certificate{
+    background-image: url("./img/backimg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
